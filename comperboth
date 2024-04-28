@@ -1,0 +1,11 @@
+Compare and contrast the if single-selection statement and the while iteration statement. 
+How are these two statements similar? How are they different?
+
+Solutions
+
+Condition-based execution: Both the if statement and the while statement rely on a condition to determine whether to execute a block of code.
+
+If the condition evaluates to true, the code inside the block is executed.
+Use of boolean expressions: In both cases, the condition is expressed as a boolean expression, which evaluates to either true or false.
+
+Control flow manipulation: Both statements can alter the flow of control in a Java program. Depending on the evaluation of the condition, they can cause certain blocks of code to be executed or skipped.
